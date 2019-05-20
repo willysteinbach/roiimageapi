@@ -10,11 +10,11 @@ then availabe by a simply download link.
   
 ### Setup Config File
   Set the config with:
-    1) the database user, 
-    2) the rootdirectory of the api (here all products will be saved temporary and the all finished images will be found here),
-    3) the SCI account credentials,
-    4) the ammount of downloads that can be run at the same time (SCI allows at maximum two per user at the same time, 
-        in some cases even 1 download is more efficient than one)
+1) the database user, 
+2) the rootdirectory of the api (here all products will be saved temporary and the all finished images will be found here),
+3) the SCI account credentials,
+4) the ammount of downloads that can be run at the same time (SCI allows at maximum two per user at the same time, 
+    in some cases even 1 download is more efficient than one)
         
 ### Run the API
   When everything is set up you can simply run the api by starting it as a background process.
