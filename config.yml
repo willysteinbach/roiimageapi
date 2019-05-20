@@ -1,0 +1,11 @@
+database:
+        databasename: exampleName
+        host: localhost
+        username: exampleUser
+        password: examplePW
+rootdirectory: /home/user/api
+scihuburl: https://scihub.copernicus.eu/dhus
+sciuser: SCIUsername
+scipassword: SCIPW
+port: 10000
+downloadsatonce: 2
